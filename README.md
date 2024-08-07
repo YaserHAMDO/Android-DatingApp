@@ -14,7 +14,7 @@ Available on the Google Play Store, it uses AWS, Firebase, and Google Cloud for 
 - **Profile Editing:** Update your profile information and manage pet profiles.
 - **Pet Profiles:** Create and search for profiles of pets.
 - **Filters:** Apply filters to find people who match your preferences.
-- **Settings:** Manage your account with options to delete or hide it.
+- **Settings:** Manage your account with settings for notifications, privacy options like hide profile, incognito mode, freeze, and delete, along with help options including feedback, contact us, etc.
 - **Premium Features:**
   - **Direct Messaging & Superlikes:** Send messages, use superlikes to stand out, and see who liked your profile.
   - **Boosts:** Increase your profile’s visibility.
