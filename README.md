@@ -50,14 +50,10 @@ Download the app from Google Play: [Dating app](https://play.google.com/store/ap
 <p align="left">
   <img alt="g" src="https://github.com/user-attachments/assets/dc4b4d11-1135-424f-ba8c-71fa17cd1f02" width="30%">
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="h" src="https://github.com/user-attachments/assets/e5af7d51-7d14-440e-9a2a-a8fabfffaa8d" width="30%">
+  <img alt="h" src="https://github.com/user-attachments/assets/da86837b-74de-4621-83d7-6ae349593ba6" width="30%">
 </p>
 
-<p align="left">
-  <img alt="i" src="https://github.com/user-attachments/assets/bf908034-005e-498b-a54c-6fb3456efa92" width="30%">
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="j" src="https://github.com/user-attachments/assets/da86837b-74de-4621-83d7-6ae349593ba6" width="30%">
-</p>
+
 
 <p align="left">
   <img alt="k" src="https://github.com/user-attachments/assets/2a62a218-cae7-4386-94f8-31ffd8f1886d" width="30%">
@@ -80,20 +76,16 @@ Download the app from Google Play: [Dating app](https://play.google.com/store/ap
 <p align="left">
   <img alt="q" src="https://github.com/user-attachments/assets/aa72b0db-faf6-4523-b685-820f94978fe3" width="30%">
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="r" src="https://github.com/user-attachments/assets/your-image-r" width="30%">
 </p>
 
-<p align="left">
-  <img alt="s" src="https://github.com/user-attachments/assets/your-image-s" width="30%">
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="t" src="https://github.com/user-attachments/assets/your-image-t" width="30%">
-</p>
+
 
 <p align="left">
-  <img alt="u" src="https://github.com/user-attachments/assets/your-image-u" width="30%">
+  <img alt="i" src="https://github.com/user-attachments/assets/bf908034-005e-498b-a54c-6fb3456efa92" width="30%">
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="v" src="https://github.com/user-attachments/assets/your-image-v" width="30%">
+  <img alt="j" src="https://github.com/user-attachments/assets/e5af7d51-7d14-440e-9a2a-a8fabfffaa8d" width="30%">
 </p>
+
 
 <p align="left">
   <img alt="w" src="https://github.com/user-attachments/assets/2b9d776f-a403-42bb-a45a-29556239ff05" width="30%">
