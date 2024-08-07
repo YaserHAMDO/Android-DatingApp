@@ -16,7 +16,7 @@ Available on the Google Play Store, it uses AWS, Firebase, and Google Cloud for 
 - **Filters:** Apply filters to find people who match your preferences.
 - **Settings:** Manage your account with settings for notifications, privacy options like hide profile, incognito mode, freeze, and delete, along with help options including feedback, contact us, etc.
 - **Premium Features:**
-  - **Direct Messaging & Superlikes:** Send messages, use superlikes to stand out, and see who liked your profile.
+  - **Direct Messaging & Superlikes:** Send direct messages, use superlikes to stand out, and see who liked your profile.
   - **Boosts:** Increase your profile’s visibility.
   - **Event Hub:** Find and join festivals and vacations, and meet new friends to go with you.
 
