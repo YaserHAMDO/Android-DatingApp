@@ -9,7 +9,7 @@ Available on the Google Play Store, it uses AWS, Firebase, and Google Cloud for 
 
 ## Key Features
 
-- **Profile Creation:** Enter your name, birthdate, job, languages, hometown, gender, preferences, and interests. You can also upload photos.
+- **Profile Creation:** Enter your name, photos, birthdate, job, languages, hometown, gender, preferences, and interests.
 - **Swiping & Matching:** Browse profiles as cards. Swipe right to like and left to pass. Match with others and start chatting.
 - **Profile Editing:** Update your profile information and manage pet profiles.
 - **Pet Profiles:** Create and search for profiles of pets.
@@ -82,16 +82,16 @@ Download the app from Google Play: [Dating app](https://play.google.com/store/ap
 
 
 <p align="left">
-  <img alt="i" src="https://github.com/user-attachments/assets/bf908034-005e-498b-a54c-6fb3456efa92" width="30%">
+  <img alt="i" src="https://github.com/user-attachments/assets/26addd42-d69e-4ec6-b254-7c194b097454" width="30%">
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="z" src="https://github.com/user-attachments/assets/5fb7bea7-86c4-462d-91e7-59a8e87030f3" width="30%">
 </p>
 
 
 <p align="left">
-   <img alt="y" src="https://github.com/user-attachments/assets/26addd42-d69e-4ec6-b254-7c194b097454" width="30%">
+   <img alt="y" src="https://github.com/user-attachments/assets/d99b7269-20c3-4cee-8985-c7dfdd5c4bce" width="30%">
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="x" src="https://github.com/user-attachments/assets/d99b7269-20c3-4cee-8985-c7dfdd5c4bce" width="30%">
+  <img align="top" alt="x" src="https://github.com/user-attachments/assets/bf908034-005e-498b-a54c-6fb3456efa92" width="30%">
 </p>
 
 <p align="left">
