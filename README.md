@@ -30,9 +30,10 @@ Download the app from Google Play: [Dating app](https://play.google.com/store/ap
 ## Screenshots
 
 <p align="left">
+   <img alt="c" src="https://github.com/user-attachments/assets/a58a657c-0e80-4665-9506-8a17b6fd57e9" width="30%">
   <img alt="a" src="https://github.com/user-attachments/assets/a9794a8a-b5dc-4a1f-aa78-3937a3f14a85" width="30%">
   <img alt="b" src="https://github.com/user-attachments/assets/575e181f-b37a-4d9a-abc2-db1f3b14ac0c" width="30%">
-  <img alt="c" src="https://github.com/user-attachments/assets/a58a657c-0e80-4665-9506-8a17b6fd57e9" width="30%">
+
 </p>
 
 
@@ -66,7 +67,7 @@ Download the app from Google Play: [Dating app](https://play.google.com/store/ap
 
 
 <p align="left">
-  <img align="top" alt="i" src="https://github.com/user-attachments/assets/26addd42-d69e-4ec6-b254-7c194b097454" width="30%">
+   <img align="top" alt="x" src="https://github.com/user-attachments/assets/bf908034-005e-498b-a54c-6fb3456efa92" width="30%">
   <img align="top" alt="z" src="https://github.com/user-attachments/assets/5fb7bea7-86c4-462d-91e7-59a8e87030f3" width="30%">
   <img align="top" alt="q" src="https://github.com/user-attachments/assets/e5af7d51-7d14-440e-9a2a-a8fabfffaa8d" width="30%">
 </p>
@@ -75,14 +76,9 @@ Download the app from Google Play: [Dating app](https://play.google.com/store/ap
 <p align="left">
     <img alt="w" src="https://github.com/user-attachments/assets/2b9d776f-a403-42bb-a45a-29556239ff05" width="30%">
      <img align="top" alt="y" src="https://github.com/user-attachments/assets/d99b7269-20c3-4cee-8985-c7dfdd5c4bce" width="30%">
-    <img align="top" alt="x" src="https://github.com/user-attachments/assets/bf908034-005e-498b-a54c-6fb3456efa92" width="30%">
+     <img align="top" alt="i" src="https://github.com/user-attachments/assets/26addd42-d69e-4ec6-b254-7c194b097454" width="30%">
 </p>
 
-<p align="left">
- 
-
-  &nbsp; &nbsp; &nbsp; &nbsp;
-</p>
 
 
 
